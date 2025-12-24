@@ -5,8 +5,9 @@ Chess Legion does not collect any personal information or data that can directly
 Chess Legion uses Google AdMob to display advertisements. AdMob may automatically collect certain information, such as your device identifiers, approximate location, and ad interaction data, to provide, personalize, and measure ads.
 
 Google processes this information in accordance with its own policies. You can learn more about how Google uses data from mobile apps here: 
-							policies.google.com/technologies/partner-sites
+	policies.google.com/technologies/partner-sites
 
 You can opt out of personalized advertising by adjusting your device's advertising settings.
 
 By using Chess Legion, you consent to the processing of data by Google AdMob as described above.
+
